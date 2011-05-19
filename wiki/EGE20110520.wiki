@@ -1,0 +1,5 @@
+#labels Featured
+EGE V0.3.8 Release 20110520
+★调整头文件，以使兼容性更好，减少链接出错
+★GetFPS函数去掉参数
+★版本更新为20110520 V0.3.8 Release （推荐的稳定版本）
